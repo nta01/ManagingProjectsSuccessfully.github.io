@@ -89,7 +89,7 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 # Siehe auch
 
 * Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](6_3_5_Methode.md)
+* [Ideen_Marathon](Ideen_Marathon.md)
 
 # Weiterführende Literatur
 
